@@ -13,7 +13,6 @@ This repository contains my solution for the [Huddle landing page with alternati
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
